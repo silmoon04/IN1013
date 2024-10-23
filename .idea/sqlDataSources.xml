@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="60cac2d5-ae1f-4751-88a7-e80488d43cee" name="@localhost Mapping">
+      <data-sources db="013f5dd9-2ac5-4342-8be2-65ef759c37bf" />
+      <scope>
+        <node negative="1">
+          <node kind="schema" qname="minizoo_database" />
+          <node kind="database" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
